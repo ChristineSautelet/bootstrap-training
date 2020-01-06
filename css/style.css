@@ -1,0 +1,27 @@
+.container {
+  background-color: #cda5f3;
+  border: solid 2px black;
+  border-radius: 5px;
+  width: 920px;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+.row {
+  height: 38px;
+}
+
+.contour {
+  border: solid 2px black;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: -25px;
+  margin-right: -15px;
+}
+
+p {
+  padding: 5px;
+}
+/*# sourceMappingURL=style.css.map */
