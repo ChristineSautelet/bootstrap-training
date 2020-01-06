@@ -1,8 +1,6 @@
 .container {
-  background-color: #cda5f3;
-  border: solid 2px black;
-  border-radius: 5px;
   width: 920px;
+  margin-top: 40px;
 }
 
 .container-fluid {
@@ -13,15 +11,27 @@
   height: 38px;
 }
 
-.contour {
-  border: solid 2px black;
-  border-radius: 5px;
+.groupes {
   text-align: center;
-  margin-left: -25px;
+}
+
+.groupe {
+  border: solid 3px black;
+  border-radius: 5px;
+  background-color: #cda5f3;
+  padding-top: 6px;
+  height: 80px;
+}
+
+.elements {
+  border: solid 3px black;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: -15px;
   margin-right: -15px;
 }
 
-p {
-  padding: 5px;
+.row {
+  height: 30px;
 }
 /*# sourceMappingURL=style.css.map */
